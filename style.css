@@ -65,3 +65,9 @@ li a:hover{
     width: 140px;
     padding-right: 1.4em;
 }
+#paddingPolicies{
+    padding-top: 20px;
+    font-size: 120%;
+    text-decoration: underline;
+    text-shadow: 1px 1px rgb(97, 97, 97);
+}
